@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 [Grafisch Lyceum Utrecht]: https://www.glu.nl/
 [Website]: https://jeroenvdg.com
 [Crystal Development]: https://discord.gg/Jraeaxs
-[Itch]: https://discord.gg/Jraeaxs
+[Itch]: https://jeroeno-boy.itch.io/
