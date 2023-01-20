@@ -2,9 +2,7 @@
 
 I am Jeroen, 18 years old and a Dutch student. I love programming websites, discord bots & games. I'm currently studying Game Development @ [Grafisch Lyceum Utrecht].
 
-I am currently working for [Crystal Development] as a discord bot & fullstack developer. 
-
-Fun Fact: If the penalty for a crime is a fine, then that law only exists for the lower class.
+I mainly make games with Unity, but I can also create websites, discord bots & Minecraft minigames
 
 <table>
   <tr>
@@ -19,25 +17,9 @@ Fun Fact: If the penalty for a crime is a fine, then that law only exists for th
 
 ## Links
 🌐 [Website]
-🤖 [Crystal Development]
 🎮 [Itch]
-<!--
-**JeroenoBoy/JeroenoBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [Discord]: https://discord.com
 [Grafisch Lyceum Utrecht]: https://www.glu.nl/
 [Website]: https://jeroenvdg.com
-[Crystal Development]: https://discord.gg/Jraeaxs
 [Itch]: https://jeroeno-boy.itch.io/
